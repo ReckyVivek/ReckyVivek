@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi there 👋, I'm Vivek</h1>
-<h3 align="center">A guys who loves '1's, '0's, a passionate programmer and a Gamer</h3>
+<h3 align="center">A guy who loves '1's, '0's, a passionate programmer, and a Gamer</h3>
 - 🌱 I’m currently learning **ML,Full Stack and App Development**
+
 - 💬 Ask me about **Gaming, Music, Data Analytics, Competitive Coding and DSA**
+  
 - 📫 How to reach me: **ravishankar20041973@gmail.com**
 
 
