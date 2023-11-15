@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Gaming, Music, Data Analytics, Competitive Coding and DSA**
   
-- 📫 How to reach me: **ravishankar20041973@gmail.com**
+- 📫 How to reach me: **vivekkumardhoke91@gmail.com**
 
 
 
